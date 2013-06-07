@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget
+	xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.isti115.frelananim"
+	version = "0.0.1"
+	>
+
+	<name>Touch Test</name>
+	
+	<description>
+		A freelancer project done just to test my skills.
+	</description>
+	
+	<author href="http://siteofeverything.site50.net" email="istvan.donko@gmail.com">
+		István Donkó
+	</author>
+	
+	<preference name="permissions" value="none" />
+	
+	<preference name="fullscreen" value="true" />
+	<!-- <preference name="orientation" value="landscape" />
+	
+	<icon src="icon.png" />
+	
+	<gap:splash src="splash.png" /> -->
+
+</widget>
